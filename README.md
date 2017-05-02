@@ -1,5 +1,5 @@
 # Python-Data-Science-and-Machine-Learning-Bootcamp
-Learning various python libraries for data analysis including...  #
+# Learning various python libraries for data analysis including...  #
 -Numpy  
 -Pandas  
 -SciPy  
@@ -7,7 +7,7 @@ Learning various python libraries for data analysis including...  #
 -Seaborn  
 -Plotly  
 
-Built off of these skills to analyze data using various machine learning techniques including...  
+# Built off of these skills to analyze data using various machine learning techniques including...  #
 -Cross-Validation  
 -Decision Trees  
 -K-Means  
